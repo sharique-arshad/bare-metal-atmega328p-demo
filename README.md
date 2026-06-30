@@ -16,7 +16,7 @@
 
 ### Programming using Arduino Uno as ISP
 
-![Arduino ISP](images/arduino_isp.jpg)
+![Arduino ISP](images/Arduino_Isp.jpg)
 
 *Uploading firmware to the standalone ATmega328P using an Arduino Uno configured as an ISP programmer during development.*
 
